@@ -1,0 +1,140 @@
+/* Welcome to Compass. Use this file to write IE specific override styles.
+ * Import this file using the following HTML or equivalent:
+ * <!--[if IE]>
+ *   <link href="/stylesheets/ie.css" media="screen, projection" rel="stylesheet" type="text/css" />
+ * <![endif]--> */
+
+body,div,p{
+  margin: 0;
+  padding: 0;
+}
+.banner-wrap{width: 100%;  height: 1982px;background: url(../images/about/bg_01.png) no-repeat;background-color: #f3f4f8}
+h3{
+  font-size: 16px;
+  text-align: center;
+  margin-top: 35px;
+}
+.wrapper{
+  margin: 0 auto;
+  width: 1200px;
+}
+#banner-wrap1{
+  margin: 0 auto;
+  width: 967px;
+}
+#text-wrap1 p{
+  margin-top: 30px;
+  font-size: 15px;
+  text-align: center;
+  color: #131313;
+}
+#text-wrap2 p{
+  font-size: 15px;
+  text-align: center;
+  color: #131313;
+}
+#banner-wrap1 p{
+  font-size: 15px;
+  color: #131313;
+}
+#ourValue div p{
+  font-size: 15px;
+  text-align: center;
+  color: #131313;
+}
+.wrapper-box{
+  padding-top: 85px;
+}
+.rec_title{
+  display: inline-block;
+  color: #000;
+  margin-top: 30px;
+  font-weight: bold;
+}
+.banner_img1{
+  width: 100%;  height: 159px;  background: url(../images/about/about4_02.png) no-repeat center;
+}
+.banner_img2{
+  width: 100%;  height: 96px;  background: url(../images/about/title_03.png) no-repeat center;
+}
+.banner_img3{
+  width: 100%;  height: 46px;  background: url(../images/about/trade_07.png) no-repeat center;
+}
+#navbar{
+  margin-top: 58px;
+  width: 100%;
+  text-align: center;
+}
+#navbar a{
+  background: url(../images/about/buttom_07.png) no-repeat;
+  margin-left: 11px;
+  color: #000;
+  font-weight: bold;
+  font-size: 16px;
+  display: inline-block;
+  width: 119px;
+  height: 37px;
+  line-height: 37px;
+}
+#navbar a:hover{
+  color: #396dbc;
+}
+.linkTitle{
+  color: #396cbd;
+  font-size: 20px;
+}
+.contentStyle{
+  color: #4575c1;
+}
+#ci,#ourModel,#ourValue,#ourMission,#recruit,#contactUs{
+  margin-top: 55px;
+}
+#ci .ci_bg{
+  width: 100%;  height: 55px;  background: url(../images/about/bg-main_11.png) no-repeat center;
+}
+#ourModel .ourModel_bg{
+  width: 100%;  height: 55px;  background: url(../images/about/bg-main_15.png) no-repeat center;
+}
+#ourModel .ourModel_bg1{
+  margin-top: 40px; width: 100%;  height: 273px;  background: url(../images/about/bg-main_19.png) no-repeat center;
+}
+#ourValue .ourValue_bg{
+  width: 100%;  height: 55px;  background: url(../images/about/bg-main_23.png) no-repeat center;
+}
+#ourValue .ourValue_bg1{
+  margin-top:25px;width: 100%;  height: 162px;  background: url(../images/about/about4_27.png) no-repeat center;
+}
+#ourMission .ourMission_bg{
+  width: 100%;  height: 55px;  background: url(../images/about/bg-main_30.png) no-repeat center;
+}
+#ourMission{
+  width: 100%;  height:434px;  background: url(../images/about/about4_27-08.png) no-repeat center;
+}
+#recruit .recruit_bg{
+  width: 100%;  height: 55px;  background: url(../images/about/bg-main_37.png) no-repeat center;
+}
+#contactUs .contactUs_bg{
+  width: 100%;  height: 55px;  background: url(../images/about/bg-main_40.png) no-repeat center;
+}
+.contactUs_bg1{
+  margin: 40px 0 40px 0; width: 100%;  height: 546px;  background: url(../images/about/bg-main_43.png) no-repeat left center;
+}
+.linkInfo{
+  float: right;
+  right: 600px;
+  margin: 100px;
+  line-height: 30px;
+}
+.linkInfo span{
+  color: #131313;
+  font-size: 18px;
+}
+
+.es-p{
+  margin-left: 120px;
+  margin-top: 20px;
+}
+.about-hover{
+  height: 60px;
+  margin-top: -60px;
+}
